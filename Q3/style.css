@@ -1,0 +1,17 @@
+#top-wrapper {
+    margin: auto;
+    display: flex;
+    align-items: center;
+    padding-left: 0em;
+    color: rgb(0, 200, 255);
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    justify-content: center;
+  }
+  
+  #btn-div {
+    display: flex;
+    align-items: center;
+    gap: 10em;
+    justify-content: center;
+  }
